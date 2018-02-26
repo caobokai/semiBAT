@@ -14,7 +14,7 @@ function [Xba, W] = semiBAT_fun(X, Y, k)
 %   graph factor matrix A = Xba{4}
 % W is the weight matrix
 %
-% Example: see bat_demo.m
+% Example: see semiBAT_demo.m
 %
 % Reference:
 % Bokai Cao, Chun-Ta Lu, Xiaokai Wei, Philip S. Yu and Alex D. Leow. 
